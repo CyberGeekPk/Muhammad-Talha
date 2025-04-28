@@ -47,7 +47,7 @@ Provide tools and break them down into categories.
   <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 </a>
 <a href="https://www.coursera.org/account/accomplishments/verify/A3ZTS9PT4QTA" target="_blank">
-  <img src="https://www.credly.com/badges/e007aa94-74e4-4e1b-ac8e-93ef8d7f4ae1/public_url" />
+  <img src="https://img.shields.io/badge/Cisco%20SOC%20Training-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
 </a>
 
 </div>
